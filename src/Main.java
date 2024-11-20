@@ -5,6 +5,25 @@ public class Main {
 
         WrapperClass wrapperObj = new WrapperClass();
 
+       // wrapperObj.useMoreStringMethods();
+
+      //  wrapperObj.useScanner();
+     //   wrapperObj.convertStringToNumber();
+
+     //   wrapperObj.convertNumberToString();
+
+      //  wrapperObj.useStringBuffer();
+
+      //  wrapperObj.useStringJoiner();
+
+     //   wrapperObj.useFormatingToConsole();
+
+        wrapperObj.useMathClass();
+
+
+
+
+
         /**
          *  wrapperObj.useAutoboxAndUnbox();
          *  wrapperObj.useValueOf();
@@ -16,6 +35,6 @@ public class Main {
          */
 
 
-        wrapperObj.usePopularStringMethods();
+       // wrapperObj.usePopularStringMethods();
         }
     }
